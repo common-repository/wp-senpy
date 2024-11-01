@@ -1,0 +1,226 @@
+# Translation of
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#: analisis-sentimientos-emociones-general.php:625
+#: analisis-sentimientos-emociones-general.php:634
+#: analisis-sentimientos-emociones-general.php:650
+#: analisis-sentimientos-emociones-general.php:976
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: Álvaro Gericke <alvgericke@hotmail.com>\n"
+"POT-Creation-Date: 2017-06-22 19:34+0200\n"
+"PO-Revision-Date: 2017-06-22 20:07+0100\n"
+"Last-Translator: Álvaro Gericke <alvgericke@hotmail.cm>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1;  plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: analisis-sentimientos-emociones-general.php:461
+msgid "Negative"
+msgstr "Negativo"
+
+#: analisis-sentimientos-emociones-general.php:467
+msgid "Positive"
+msgstr "Positivo"
+
+#: analisis-sentimientos-emociones-general.php:473
+msgid "Neutral"
+msgstr "Neutral"
+
+#: analisis-sentimientos-emociones-general.php:566
+#: analisis-sentimientos-emociones-general.php:938
+msgid "Sentiment and Emotion Analysis Plugin"
+msgstr "Plugin Análisis de Emociones y Sentimientos"
+
+#: analisis-sentimientos-emociones-general.php:567
+msgid "Emotion & Sentiment Menu"
+msgstr "Menú de emociones y Sentimientos"
+
+#: analisis-sentimientos-emociones-general.php:577
+msgid "CSS & Layout Sentiment and Emotion Analysis Plugin"
+msgstr "CSS & Layout Plugin Análisis de Emociones y Sentimientos"
+
+#: analisis-sentimientos-emociones-general.php:578
+msgid "Comments Layout"
+msgstr "Layout Comentarios"
+
+#: analisis-sentimientos-emociones-general.php:586
+msgid "About Sentiment and Emotion Analysis Plugin"
+msgstr "Acerca del Plugin Análisis de Sentimientos y Emociones"
+
+#: analisis-sentimientos-emociones-general.php:587
+msgid "About"
+msgstr "Acerca de"
+
+#: analisis-sentimientos-emociones-general.php:608
+msgid "Select the Plugins for Senpy"
+msgstr "Selecciona los Plugins para Senpy"
+
+#: analisis-sentimientos-emociones-general.php:615
+msgid "Select the Sentiment Analysis plugin"
+msgstr "Selecciona el Plugin para el Análisis de Sentimientos"
+
+#: analisis-sentimientos-emociones-general.php:642
+msgid "Select the Emotion Analysis plugin"
+msgstr "Selecciona el Plugin para el Análisis de Emociones"
+
+#: analisis-sentimientos-emociones-general.php:658
+msgid "Configure the Layout for the Comments"
+msgstr "Configura la vista de los comentarios"
+
+#: analisis-sentimientos-emociones-general.php:665
+msgid "Select if you want the comment's sentiment to be shown"
+msgstr "Selecciona si quieres que se muestre el sentimiento del comentario"
+
+#: analisis-sentimientos-emociones-general.php:673
+msgid "Select if you want the comment's emotion to be shown"
+msgstr "Selecciona si quieres que se muestre la emoción del comentario"
+
+#: analisis-sentimientos-emociones-general.php:702
+msgid "Invalid Sentiment Plugin value, go back and try again"
+msgstr "Plugin de Sentimientos inválido, vuelve a atrás e inténtalo de nuevo"
+
+#: analisis-sentimientos-emociones-general.php:716
+msgid "Invalid Meaning Cloud Key, go back and try again"
+msgstr "Clave de Meaning Cloud inválida, vuelve a atrás e inténtalo de nuevo"
+
+#: analisis-sentimientos-emociones-general.php:737
+msgid "Invalid Sentiment Language value, go back and try again"
+msgstr "Idioma para el Plugin de Sentimientos inválido, vuelve a atrás e inténtalo de nuevo"
+
+#: analisis-sentimientos-emociones-general.php:756
+msgid "Invalid Emotion Plugin value, go back and try again"
+msgstr "Plugin de Emociones inválido, vuelve a atrás e inténtalo de nuevo"
+
+#: analisis-sentimientos-emociones-general.php:775
+msgid "Invalid Emotion Language value, go back and try again"
+msgstr "Idioma para el Plugin de Emociones inválido, vuelve a atrás e inténtalo de nuevo"
+
+#: analisis-sentimientos-emociones-general.php:824
+msgid "Introduce your Meaning cloud Api Key"
+msgstr "Introduce tu clave de Meaning Cloud"
+
+#: analisis-sentimientos-emociones-general.php:833
+msgid "Select the Language Parameter for the Sentimet Plugin"
+msgstr "Seleccione el idioma para el Plugin de Sentimientos"
+
+#: analisis-sentimientos-emociones-general.php:903
+msgid "Select the Language Parameter for the Emotion Plugin"
+msgstr "Seleccione el idioma para el Plugin de Emociones"
+
+#: analisis-sentimientos-emociones-general.php:929
+msgid "Select between the different options for configuring the parameters"
+msgstr "Selecciones entre las distintas opciones para configurar los parámetros"
+
+#: analisis-sentimientos-emociones-general.php:985
+msgid "Visualization Configuration for the Comments"
+msgstr "Configuración de la Visualización de los Comentarios"
+
+#: analisis-sentimientos-emociones-general.php:1000
+msgid "Available Plugins"
+msgstr "Plugins Disponibles"
+
+#: analisis-sentimientos-emociones-general.php:1002
+msgid "Sentiment Plugins"
+msgstr "Plugins de Sentimientos"
+
+#: analisis-sentimientos-emociones-general.php:1007
+msgid ""
+"Sentiment classifier using rule-based classification for English and "
+"Spanish. This plugin uses sentiment140 data to perform classification. For "
+"more information:"
+msgstr ""
+"Clasificador de sentimientos usando clasificación basada en reglas para "
+"Inglés y Español. Este plugin usa información de sentiment140 para realizar "
+"la clasificación. Para más imformación:"
+
+#: analisis-sentimientos-emociones-general.php:1014
+msgid ""
+"Sentiment classifier using rule-based classification based on English and "
+"Spanish"
+msgstr ""
+"Clasificador de sentimientos usando clasificación basada en reglas para "
+"Inglés y Español"
+
+#: analisis-sentimientos-emociones-general.php:1020
+msgid ""
+"Sentiment analysis with meaningCloud service. To use this plugin, you need "
+"to obtain an API key from meaningCloud signing up here:"
+msgstr ""
+"Análisis de sentimientos usando el servicio de meaningCloud. Para usar este "
+"plugin, necesitas obtener una API key de menaingCloud registrándote aquí:"
+
+#: analisis-sentimientos-emociones-general.php:1024
+msgid ""
+"When you had obtained the meaningCloud API Key, you have to provide it to "
+"the plugin, using param apiKey. Example request:"
+msgstr ""
+"Cuando hayas obtenido la API Key de menaingCloud, tienes que introducirla en "
+"el plugin, usando param apiKey. Ejemplo de petición:"
+
+#: analisis-sentimientos-emociones-general.php:1031
+msgid ""
+"Sentiment classifier using vaderSentiment module. Params accepted: Language: "
+"{en, es}. The output uses Marl ontology developed at GSI UPM for semantic "
+"web."
+msgstr ""
+"Clasificador de Sentimientos usando el módulo de vaderSentiment. Parámetros "
+"aceptados: Language:{en, es}. La salida usa la ontología Marl desarrollada "
+"en el GSI UPM para la web semántica."
+
+#: analisis-sentimientos-emociones-general.php:1037
+msgid ""
+"Sentiment classifier using rule-based classification for Spanish. Based on "
+"english to spanish translation and SentiWordNet sentiment knowledge. This is "
+"a demo plugin that uses only some features from the TASS 2015 classifier. To "
+"use the entirely functional classifier you can use the service in:"
+msgstr ""
+"Clasificador de sentimientos usando clasificación basada en reglas para "
+"Español. Basado en la traducción de ingles a español y el conocimiento sobre "
+"sentimientos de SentiWordNet. Esto es una demo que simplemente usa algunas "
+"características del clasificador TASS 2015. Para usar todas las "
+"funcionalidades del clasificador puede usar el servicio en:"
+
+#: analisis-sentimientos-emociones-general.php:1043
+msgid "Emotion Plugins"
+msgstr "Plugins de Emociones"
+
+#: analisis-sentimientos-emociones-general.php:1048
+msgid ""
+"Emotion classifier using WordNet-Affect to calculate the percentage of each "
+"emotion. This plugin classifies among 6 emotions: anger,fear,disgust,joy,"
+"sadness or neutral. The only available language is English (en)"
+msgstr ""
+"Clasificador de Emociones usando WordNet-Affect para calcular el porcentaje "
+"de cada emoción. Este plugin clasifica en 6 emociones: enfado, miedo, asco, "
+"alegría, tristeza o neutral. El único idioma disponible es Inglés (en)"
+
+#: analisis-sentimientos-emociones-general.php:1054
+msgid ""
+"This plugin consists on an emotion classifier using ANEW lexicon dictionary "
+"to calculate VAD (valence-arousal-dominance) of the sentence and determinate "
+"which emotion is closer to this value. Each emotion has a centroid, "
+"calculated according to this article:"
+msgstr ""
+"Este plugin consiste en un clasificador de emociones usando el diccionario "
+"léxico ANEW para calcular el VAD (valencia-excitación-dominio) de la frase y "
+"determinar que emoción es la que más se acerca a ese valor. Cada emoción "
+"tiene un centro, calculado según este artículo: "
+
+#: analisis-sentimientos-emociones-general.php:1058
+msgid ""
+"The plugin is going to look for the words in the sentence that appear in the "
+"ANEW dictionary and calculate the average VAD score for the sentence. Once "
+"this score is calculated, it is going to seek the emotion that is closest to "
+"this value."
+msgstr ""
+"Este plugin va a buscar las palabras en la frase que aparecen en el "
+"diccionario ANEW y calculará la puntuación media VAD para la frase. Una vez "
+"se haya calculado esta puntuación, se buscará la emoción que más se acerque "
+"a ese valor."
